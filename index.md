@@ -1,5 +1,4 @@
 # lefu_jupyter_static
-# lefu_jupyter
 ### 娱乐
 云游戏：[虎牙云游戏](https://yowa.huya.com/) | [斗鱼云游戏](https://cloudgame.douyu.com/home)  
 街机游戏：[吾爱街机](https://www.52jieji.cn/) | [灵动游戏](https://www.mhhf.com/) | [小霸王](https://www.yikm.net/) | [在线街机游戏-yikm](https://www.yikm.net/) | [中文家用游戏博物馆](http://www.famicn.com/)  
